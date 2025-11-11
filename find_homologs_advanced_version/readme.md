@@ -1,4 +1,4 @@
-#🧬 Find Homologous Genes Containing the Histidine Kinase Domain
+# 🧬 Find Homologous Genes Containing the Histidine Kinase Domain
 - This script is a continuation of the original find_homologous script and identifies genes that contain homologous histidine kinase (HK) domains by combining BLAST search results with gene coordinate information from a BED file.
 - It filters BLAST hits for >30% sequence identity and >90% query coverage, then determines which annotated genes those hits fall within.
   
