@@ -15,5 +15,5 @@ In short:
 This assignment was from week 4 of the semester and again the parameters can be adjusted based on need 
 
 ```
-homolog_identify.sh <query.faa> <subject.fna> <bedfile> <outfile>
+find_homologs_and_genes.sh <query.faa> <subject.fna> <bedfile> <outfile>
 ```
