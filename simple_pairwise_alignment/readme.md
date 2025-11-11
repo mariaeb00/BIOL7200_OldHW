@@ -4,4 +4,4 @@
 
 This assignment is from the 6th week of class
 ```
-alignment.py <FASTA file>
+alignment_visual.py <FASTA file>
